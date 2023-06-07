@@ -8,13 +8,13 @@ DxLib, Siv3D https://pointn.hatenablog.jp/entry/2020/11/27/013134
 
 ### 高専プロコン
 procon30 競技
-https://www.procon.gr.jp/wp-content/uploads/2019/10/bc1804a6f66928358a6e44afd046c92a.pdf
-https://www.procon.gr.jp/wp-content/uploads/2019/10/2-B.pdf
+* パンフレット https://www.procon.gr.jp/wp-content/uploads/2019/10/bc1804a6f66928358a6e44afd046c92a.pdf
+* 結果 https://www.procon.gr.jp/wp-content/uploads/2019/10/2-B.pdf
 
 ### その他
 * ダークライ試合速報（Twitter bot） https://twitter.com/vs_Darkrai_log
-* Cookie Clicker mod https://pointn.github.io/cookiepricecheck/ https://pointn.hatenablog.jp/entry/2022/12/05/233336
-* ハッカソン https://topaz.dev/projects/ea8c248a9c7b23bc0db3
+* Cookie Clicker MOD https://pointn.hatenablog.jp/entry/2022/12/05/233336 https://pointn.github.io/cookiepricecheck/ 
+* diffusion forest @ GYMLABOハッカソン https://topaz.dev/projects/ea8c248a9c7b23bc0db3
 
 ### [脱出アドベンチャー](https://www.arcsystemworks.jp/mnd_p/)に関する諸検証
 
