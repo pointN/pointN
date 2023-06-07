@@ -1,17 +1,27 @@
 ### 競技プログラミング
-AtCoder Highest 黄
-https://atcoder.jp/users/pointN
+AtCoder Highest 黄 https://atcoder.jp/users/pointN
 
-Codeforces Highest 薄橙
-https://codeforces.com/profile/pointN
+Codeforces Highest 薄橙 https://codeforces.com/profile/pointN
 
-Google Code Jam 2022 490位（Round 3）
-https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4
+Google Code Jam 2022 490位（Round 3） https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4
+
+### ゲーム開発
+DxLib, Siv3D https://pointn.hatenablog.jp/entry/2020/11/27/013134
 
 ### 高専プロコン
 procon30 競技
+
 https://www.procon.gr.jp/wp-content/uploads/2019/10/bc1804a6f66928358a6e44afd046c92a.pdf
+
 https://www.procon.gr.jp/wp-content/uploads/2019/10/2-B.pdf
+
+### その他
+ダークライ試合速報（Twitter bot） https://twitter.com/vs_Darkrai_log
+
+Cookie Clicker mod https://pointn.github.io/cookiepricecheck/
+
+
+
 
 
 <!--
