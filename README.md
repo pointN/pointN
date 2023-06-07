@@ -1,3 +1,15 @@
+### 使える言語
+書ける
+↑
+C++
+Python
+JavaScript
+Java
+Rust
+OCaml
+↓
+ちょっとだけ書ける
+
 ### 競技プログラミング
 * AtCoder Highest 黄 https://atcoder.jp/users/pointN
 * Codeforces Highest 薄橙 https://codeforces.com/profile/pointN
