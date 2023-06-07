@@ -1,4 +1,18 @@
-### Hi there 👋
+### 競技プログラミング
+AtCoder Highest 黄
+https://atcoder.jp/users/pointN
+
+Codeforces Highest 薄橙
+https://codeforces.com/profile/pointN
+
+Google Code Jam 2022 490位（Round 3）
+https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4
+
+### 高専プロコン
+procon30 競技
+https://www.procon.gr.jp/wp-content/uploads/2019/10/bc1804a6f66928358a6e44afd046c92a.pdf
+https://www.procon.gr.jp/wp-content/uploads/2019/10/2-B.pdf
+
 
 <!--
 **pointN/pointN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
