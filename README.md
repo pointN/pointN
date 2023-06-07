@@ -1,14 +1,12 @@
-### 使える言語
-書ける
-↑
-C++
-Python
-JavaScript
-Java
-Rust
+### 得意な言語
+書ける <-
+C++,
+Python,
+JavaScript/HTML/CSS,
+Java,
+Rust,
 OCaml
-↓
-ちょっとだけ書ける
+-> ちょっとだけ書ける
 
 ### 競技プログラミング
 * AtCoder Highest 黄 https://atcoder.jp/users/pointN
