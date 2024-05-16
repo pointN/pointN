@@ -19,6 +19,8 @@ OCaml
 DxLib, Siv3D https://pointn.hatenablog.jp/entry/2020/11/27/013134
 
 ### 高専プロコン
+procon28 自由
+* パンフレット https://www.procon.gr.jp/wp-content/uploads//2017/04/28Jiyuu.pdf
 procon30 競技
 * パンフレット https://www.procon.gr.jp/wp-content/uploads/2019/10/bc1804a6f66928358a6e44afd046c92a.pdf
 * 結果 https://www.procon.gr.jp/wp-content/uploads/2019/10/2-B.pdf
