@@ -13,6 +13,7 @@ OCaml
 * Codeforces Highest 薄橙 https://codeforces.com/profile/pointN
 * Google Code Jam 2022 490位（Round 3） https://codingcompetitions.withgoogle.com/codejam/round/00000000008779b4
 * ICPC 2023 Asia Yokohama Regional 27th (Big O of N cubed, University of Tsukuba)
+* Writer: 筑波大学プログラミングコンテスト2023 C,D,I https://mofecoder.com/contests/itfpc2023
 
 ### ゲーム開発
 DxLib, Siv3D https://pointn.hatenablog.jp/entry/2020/11/27/013134
